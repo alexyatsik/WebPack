@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.greet {
+    color: salmon;
+    background-color: palegreen;
+    font-size: 90px;
+    font-family: sans-serif;
+}
